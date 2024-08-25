@@ -1,7 +1,3 @@
-Here's a revised version of the README text to showcase the project without referring to it as a tutorial:
-
----
-
 # Aora (Video Sharing App)
 
 Welcome to the Video Sharing App! This project is a modern and fully functional platform for sharing videos, built with a focus on seamless user experiences and cutting-edge technology.
