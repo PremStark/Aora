@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+Here's a revised version of the README text to showcase the project without referring to it as a tutorial:
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+# Aora (Video Sharing App)
 
-1. Install dependencies
+Welcome to the Video Sharing App! This project is a modern and fully functional platform for sharing videos, built with a focus on seamless user experiences and cutting-edge technology.
 
-   ```bash
-   npm install
-   ```
+## 🤖 Introduction
 
-2. Start the app
+This app is designed using **React Native** to provide a smooth and intuitive user experience, combined with **Animatable** for dynamic animations. It is backed by the reliable systems of **Appwrite**, ensuring a robust and secure environment for video sharing within the community.
 
-   ```bash
-    npx expo start
-   ```
+Our app allows users to easily upload and browse AI-generated videos, offering a highly interactive and engaging platform.
 
-In the output, you'll find options to open the app in a
+## ⚙️ Tech Stack
+- **React Native**
+- **Expo**
+- **Nativewind**
+- **Animatable**
+- **Appwrite**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🔋 Features
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **Onboarding Screen**: Users are greeted with engaging graphics and clear instructions to ensure a smooth start.
+- **Robust Authentication & Authorization System**: Secure email login is implemented to protect user accounts.
+- **Dynamic Home Screen with Animated Flat List**: The latest videos are showcased with smooth animations for effortless browsing.
+- **Pull-to-Refresh Functionality**: Users can refresh content easily with a simple pull gesture, ensuring they always see the most up-to-date information.
+- **Full-Text Search Capability**: The app features a powerful search function that provides real-time suggestions and instant results.
+- **Tab Navigation**: Easy navigation between sections like Home, Search, and Profile using intuitive tab navigation.
+- **Post Creation Screen for Uploading Media**: Users can upload video and image posts directly from the app with integrated media selection tools.
+- **Profile Screen with Detailed Insights**: Users can view their account details and activity, including uploaded videos and follower counts, for a personalized experience.
+- **Responsiveness**: The app is optimized for smooth performance and adaptability across various devices and screen sizes, ensuring a consistent user experience.
+- **Animations**: Dynamic animations powered by the Animatable library enhance user interaction and engagement throughout the app's interface.
